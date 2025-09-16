@@ -1,0 +1,2 @@
+  Setting attribute of root '/': 'log_file' = log/topPLLDigital_genus.log
+@file(syn-generic-vlsiF25_v2.tcl) 18: 	set_db log_file log/${DESIGN}_genus.cmd

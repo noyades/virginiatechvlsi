@@ -1,0 +1,25 @@
+$date
+    Sep 13, 2025  09:06:59
+$end
+$version
+    TOOL:	xmsim(64)	23.03-s013
+$end
+$timescale
+    1 ps
+$end
+
+$scope module tb_topPLLDigital $end
+$var parameter 32 !    DATA_WIDTH $end
+$var parameter 32 "    CLK_PERIOD_NS $end
+$var real     64 #    SCLK_PERIOD_NS $end
+$var parameter 32 $    MODCLK_PERIOD_NS $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b10011000100101101000000 $
+r31.25 #
+b11001 "
+b10000 !
+$end
+#2158669625

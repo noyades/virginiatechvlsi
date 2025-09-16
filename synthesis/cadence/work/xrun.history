@@ -1,0 +1,3 @@
+s1(13Sep2025:09:04:47):  xrun topPLLDigital_generic_struct.v ../rtl/tb_topPLLDigital.v 
+s2(13Sep2025:09:05:27):  xrun topPLLDigital_generic_struct.v ../rtl/tb_topPLLDigital.v /data/PDK/sky130a/stdcells/sky130_scl_9T/verilog/sky130_scl_9T.v 
+s3(13Sep2025:09:06:57):  xrun topPLLDigital_generic_struct.v ../rtl/tb_topPLLDigital.v /data/PDK/sky130a/stdcells/sky130_scl_9T/verilog/sky130_scl_9T.v 
